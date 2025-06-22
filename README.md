@@ -19,8 +19,8 @@ At the successful completion of this course, students should be able to:
 
 | Lab | Summary |
 |-----|---------|
-| **Lab 1** | Introductory forensic tasks; may involve VM setup and basic forensics tools (content not yet reviewed). |
-| **Lab 2** | Designed a digital forensics business plan, covering tools, services, policies, and startup planning (content not yet reviewed). |
+| **Lab 1** | Introductory forensic tasks |
+| **Lab 2** | Designed a digital forensics business plan, covering tools, services, policies, and startup planning  |
 | **Lab 3** | Performed data acquisition using FTK Imager, exploring evidence handling, image hashing, and forensic image creation. |
 | **Lab 4** | Used OSForensics to investigate a USB drive image, performing file searches, case setup, indexing, and analysis. |
 | **Lab 5** | Performed disk and Windows Registry analysis using FTK Imager and Registry tools to uncover system artifacts. |
